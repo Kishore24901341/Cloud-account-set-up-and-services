@@ -83,7 +83,7 @@ To sign in with your IAM Identity Center user, use the sign-in URL that was sent
 
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/e25ddee0-0f8a-48c2-8077-ccef027f121b" />
 
-![Uploading image.png…]()
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/3302f530-d3cd-4731-a175-ddb5b0a7e2a2" />
 
 
 # Result:
