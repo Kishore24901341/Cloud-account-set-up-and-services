@@ -1,4 +1,4 @@
-<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/705bf62f-31b2-4cfb-a9c4-9b21b4798191" /># EX NO: Cloud-account-set-up-and-services
+# EX NO: Cloud-account-set-up-and-services
 ~~~
 Name : KISHORE V
 
@@ -81,10 +81,9 @@ To sign in with your IAM Identity Center user, use the sign-in URL that was sent
 # Output:
 
 
-<img width="1920" height="1200" alt="Screenshot 2025-08-29 142707" src="https://github.com/user-attachments/assets/eb48f04e-9679-4b61-97a1-3e13842e35e9" />
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/e25ddee0-0f8a-48c2-8077-ccef027f121b" />
 
-
-<img width="1920" height="1200" alt="Screenshot 2025-08-29 142741" src="https://github.com/user-attachments/assets/464895f7-cee8-4227-aec9-0548fba8ebc3" />
+![Uploading image.png…]()
 
 
 # Result:
